@@ -1,2 +1,5 @@
 *.pyc
 output/
+__pycache__
+trained_model/
+.DS_STORE
