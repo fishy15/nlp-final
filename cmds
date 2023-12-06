@@ -3,3 +3,4 @@ alias a="python run.py --do_eval --task nli --dataset dataset.jsonl --model /tmp
 alias b="cat custom/eval_predictions.jsonl | tail -n 1"
 alias c="a&&b"
 alias cnt="grep -c '^[^#]'"
+alias d="a && cat custom/eval_predictions.jsonl | tail -n 4"
