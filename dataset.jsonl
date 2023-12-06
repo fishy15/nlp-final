@@ -1,0 +1,22 @@
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are not holding packages.", "label": 2}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding oranges.", "label": 2}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a package each.", "label": 1}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a few packages.", "label": 1}
+
+{"premise": "Two women are embracing while not holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 2}
+{"premise": "Two women aren't embracing while holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 2}
+{"premise": "Two women are hugging while holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 0}
+{"premise": "Three women are embracing while holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 0}
+
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling bagels to a customer.", "label": 2}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a friend.", "label": 1}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A woman selling donuts to a customer.", "label": 2}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man not selling donuts to a customer.", "label": 2}
+
+
+{"premise": "A man not selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 2}
+{"premise": "A man selling bagels to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 2}
+{"premise": "A man selling donuts to a customer before a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0}
+{"premise": "A man selling donuts to a purchaser during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0}
+
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys play foosball", "label": 2}

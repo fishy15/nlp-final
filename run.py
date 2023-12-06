@@ -6,6 +6,8 @@ from helpers import prepare_dataset_nli, prepare_train_dataset_qa, \
 import os
 import json
 
+import transformers
+
 NUM_PREPROCESSING_WORKERS = 2
 
 
@@ -160,7 +162,9 @@ def main():
     )
     # Train and/or evaluate
     if training_args.do_train:
-        trainer.train()
+        transformers.logging.set_verbosity_info()
+        # trainer.train('/tmp/aprakash/trained_model/checkpoint-19500')
+        trainer.train(resume_from_checkpoint=True)
         trainer.save_model()
         # If you want to customize the way the loss is computed, you should subclass Trainer and override the "compute_loss"
         # method (see https://huggingface.co/transformers/_modules/transformers/trainer.html#Trainer.compute_loss).

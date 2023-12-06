@@ -1,0 +1,3 @@
+alias a="python run.py --do_eval --task nli --dataset dataset.jsonl --model /tmp/aprakash/trained_model/trained_model/checkpoint-116000 --output_dir custom"
+alias b="cat custom/eval_predictions.jsonl | tail -n 1"
+alias c="a&&b"
