@@ -1,0 +1,25 @@
+{"premise": "A boy in red slides down an inflatable ride.", "hypothesis": "A boy stabs a knife through an inflatable ride.", "label": 2, "type": "h-synonym", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl painting a rock face outside.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Women are standing outside", "hypothesis": "The women are coworkers.", "label": 1, "type":"h-synonyms", "origin": "2-2"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the jockey team.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to serve his food.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is stretching to grab the propeller of a plane.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling bagels to a customer.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A baby at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slide", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are not playing hopscotch.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.", "hypothesis": "Two women are doing a cartwheel.", "label": 1, "type": "h-number", "origin": "0-0"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a man in the picture.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a cyan shirt", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a window in the picture.", "label": 0, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A woman selling donuts to a customer.", "label": 2, "type": "h-antonym", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is not wearing a blue shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boys in field", "label": 2, "type": "h-numbers", "origin": "0-0"}
+{"premise": "Two men on bicycles competing in a race.", "hypothesis": "Men are riding motorcycles.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Two older men standing in front of a store of sorts.", "hypothesis": "two younger men prepare to enter a store", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching down to grab the propeller of a plane.", "label": 2, "type": "h-direction", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a friend.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "Families waiting in line at an amusement park for their food.", "hypothesis": "People are waiting in line at a restaurant.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys compete in football", "label": 2, "type": "h-synonym", "origin": "0-0"}
+{"premise": "A baby at the end of a slip and slide at a party", "hypothesis": "The man is not at the end of the slip and slide", "label": 1, "type": "h-negation", "origin": "2-2"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue jacket", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Two older men standing in front of a store of sorts.", "hypothesis": "two older men are entering a store", "label": 2, "type": "h-tense", "origin": "2-2"}

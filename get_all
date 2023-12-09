@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+for sz in {20..160..20};
+do
+    echo $sz
+    for i in {1..5};
+    do
+        cat "split-$sz/results-$i-h/eval_metrics.json"
+        echo ""
+    done
+done

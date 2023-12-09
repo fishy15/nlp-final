@@ -1,0 +1,19 @@
+{"premise": "A boy in red slides down an inflatable ride.", "hypothesis": "A boy on an inflatable ride.", "label": 0, "type": "h-general", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is writing a book.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A white cat with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with long hair is swimming underwater.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Two older people standing in front of a store of sorts.", "hypothesis": "two older men prepare to enter a store", "label": 1, "type": "p-general", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy buckles his seatbelt before he starts his car.", "label": 2, "type": "hsynonym", "origin": "2-2"}
+{"premise": "A young boy is sitting in a green tunnel", "hypothesis": "A child is tunneling", "label": 2,"type":"p-antonym/pgeneral", "origin": "2-2"}
+{"premise": "Women are standing outside", "hypothesis": "The women are coworkers.", "label": 1, "type":"h-synonyms", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl climbing a rock face outside.", "label": 0, "type": "p-specific", "origin": "2-2"}
+{"premise": "Four boys with guns and army gear.", "hypothesis": "The four guys are playing hopscotch.", "label": 2, "type": "p-specific", "origin": "2-2"}
+{"premise": "Two brown dogs with green harnesses don't play tug-of-war.", "hypothesis": "some dogs are playing in a ground", "label": 2, "type":"p-negation", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "A man sleeping on the ground in a subway.", "hypothesis": "The man is napping next to his dog.", "label": 1, "type": "p-synonym", "origin": "2-2"}
+{"premise": "A young woman is performing into a microphone.", "hypothesis": "The woman playing the trumpet.", "label": 2, "type": "p-synonym", "origin": "2-2"}
+{"premise": "A man sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his man.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl painting a rock face outside.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The woman not playing the trumpet.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is driving a bus.", "hypothesis": "A- guy fastens his seatbelt before he starts his car.", "label": 2, "type": "pspecific", "origin": "2-2"}
+{"premise": "Balding man in gray sweater plays with his dog.", "hypothesis": "An older man is throwing a sweater for his dog.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A girl in red slides down an inflatable ride.", "hypothesis": "A boy pierces a knife through an inflatable ride.", "label": 2, "type": "p-antonym", "origin": "2-2"}

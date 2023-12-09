@@ -1,0 +1,24 @@
+{"premise": "A young girl performing the nutcracker show.", "hypothesis": "watched by a group", "label": 0, "type":"p-specific", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is driving a bus.", "hypothesis": "A- guy fastens his seatbelt before he starts his car.", "label": 2, "type": "pspecific", "origin": "2-2"}
+{"premise": "A man in a colorful shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 1, "type": "p-general", "origin": "0-0"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl climbing a rock face outside.", "label": 0, "type": "p-specific", "origin": "2-2"}
+{"premise": "A white canine with long hair jumps to catch a red and green toy.", "hypothesis": "An animal is jumping to catch an object.", "label": 0, "type": "p-different", "origin": "0-0"}
+{"premise": "A blond man shows his profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury car.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A white dog with long hair dives to catch a red and green toy.", "hypothesis": "A white dog with long hair is swimming underwater.", "label": 0, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A man not selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 2, "type": "p-negation", "origin": "0-0"}
+{"premise": "Man in a black suit, white shirt and black bowtie playing an instrument without the rest of his symphony surrounding him.", "hypothesis": "Person in a suit", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "A man is holding with a baby by a window.", "hypothesis": "There is a baby in the picture.", "label": 0, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Two men work construction on the inside of a house.", "hypothesis": "The men are all friends", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "Two older people standing in front of a store of sorts.", "hypothesis": "two older men prepare to enter a store", "label": 1, "type": "p-general", "origin": "2-2"}
+{"premise": "Two boys talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A man selling donuts to a customer before a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0, "type": "p-time", "origin": "0-0"}
+{"premise": "A black dog with long hair jumps to catch a red and green toy.", "hypothesis": "An animal is jumping to catch an object.", "label": 0, "type": "p-different", "origin": "0-0"}
+{"premise": "Under a blue sky with black clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a plane.", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "A child at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slip and slide", "label": 2, "type": "p-synonym", "origin": "2-2"}
+{"premise": "Friends are standing outside", "hypothesis": "The women are friends.", "label": 0, "type":"p-specific", "origin": "2-2"}
+{"premise": "A young woman is not singing into a microphone.", "hypothesis": "The woman playing the trumpet.", "label": 2, "type": "p-negation", "origin": "2-2"}
+{"premise": "Two women having drinks and smoking cigarettes in the bar.", "hypothesis": "Two women are at a bar.", "label": 0, "type": "p-location", "origin": "0-0"}
+{"premise": "A reader in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is reading a book.", "label": 2, "type":"p-specific", "origin": "2-2"}
+{"premise": "Woman in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "Person in a suit", "label": 0, "type": "p-antonym", "origin": "0-0"}
+{"premise": "A man at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slip and slide", "label": 0, "type": "p-antonym", "origin": "2-2"}

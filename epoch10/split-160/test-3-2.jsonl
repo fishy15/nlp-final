@@ -1,0 +1,23 @@
+{"premise": "A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a shirt", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "Two men work construction on the inside of a house.", "hypothesis": "The men are all friends", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "A young girl performing the nutcracker.", "hypothesis": "watched by a nutcracker", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A dog sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his dog.", "label": 1, "type": "p-antonym", "origin": "2-2"}
+{"premise": "One brown dog with green harnesses play tug-of-war.", "hypothesis": "some dogs are playing in a ground", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is driving a bus.", "hypothesis": "A- guy fastens his seatbelt before he starts his car.", "label": 2, "type": "pspecific", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a book.", "hypothesis": "The person is reading a book.", "label": 0, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A person climbing a rock face.", "hypothesis": "A girl climbing a rock face outside.", "label": 1, "type": "p-general", "origin": "2-2"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are playing army.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A woman in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a black shirt", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Four guys with hopscotch gear.", "hypothesis": "The four guys are playing hopscotch.", "label": 0, "type": "p-antonym", "origin": "2-2"}
+{"premise": "Two friends work construction on the inside of a house.", "hypothesis": "The men are all friends", "label": 0, "type": "p-specific", "origin": "2-2"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their turn to ride.", "hypothesis": "People are waiting in line at a pool.", "label": 2, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A man sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his man.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their food.", "hypothesis": "People are waiting in line at a restaurant.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is analyzing a book.", "label": 1, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy buckles his seatbelt before he starts his car.", "label": 2, "type": "hsynonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The micorphone playing the trumpet.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with hair is swimming underwater.", "label": 2, "type":"h-general", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with long hair is not swimming underwater.", "label": 0, "type":"h-negation", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl climbing a rock face outside.", "label": 0, "type": "h-specific", "origin": "2-2"}

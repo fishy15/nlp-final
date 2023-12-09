@@ -1,0 +1,18 @@
+{"premise": "kids slicing paper", "hypothesis": "The kids are cutting ribbons.", "label": 1, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A young boy is sitting in a green tunnel", "hypothesis": "A child is tunneling", "label": 2,"type":"p-antonym/pgeneral", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch the wind.", "hypothesis": "An animal is jumping to catch an object.", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "Under a blue sky with black clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a plane.", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "One brown dog with green harnesses play tug-of-war.", "hypothesis": "some dogs are playing in a ground", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A man at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slip and slide", "label": 0, "type": "p-antonym", "origin": "2-2"}
+{"premise": "Three women are embracing while holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 0, "type": "p-number", "origin": "0-0"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "Over a blue sky with white clouds, a child reaches up to touch the plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a plane.", "label": 1, "type": "p-removal", "origin": "0-0"}
+{"premise": "Two women having smokes and smoking cigarettes at the bar.", "hypothesis": "Two women are at a bar.", "label": 0, "type": "p-different", "origin": "0-0"}
+{"premise": "Two women are embracing while not holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 2, "type": "p-negation", "origin": "0-0"}
+{"premise": "An older gentleman spelling at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A dog does not reach to catch a ball with its mouth.", "hypothesis": "The dog is playing with a rope.", "label": 2, "type":"p-negation", "origin": "2-2"}
+{"premise": "A dog sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his dog.", "label": 1, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A man in a green shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "A woman is not doing a cartwheel while wearing a bikini in the sand next to the beach.", "hypothesis": "A woman is doing a cartwheel.", "label": 2, "type": "p-negation", "origin": "0-0"}
+{"premise": "A old boy in a field of flowers carrying a ball", "hypothesis": "boy in field", "label": 0, "type": "p-antonym", "origin": "0-0"}
+{"premise": "A girl in red slides down an inflatable ride.", "hypothesis": "A boy pierces a knife through an inflatable ride.", "label": 2, "type": "p-antonym", "origin": "2-2"}

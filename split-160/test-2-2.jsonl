@@ -1,0 +1,23 @@
+{"premise": "kids slicing paper", "hypothesis": "The kids are cutting ribbons.", "label": 1, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Two brown dogs with green harnesses play tug-of-war.", "hypothesis": "some dogs are playing", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "A young boy is sitting in a green tunnel", "hypothesis": "A child is tunneling", "label": 2,"type":"p-antonym/pgeneral", "origin": "2-2"}
+{"premise": "A medium sized brown dog hopping", "hypothesis": "A 400 lb brown dog jumps excitedly for a treat.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy buckles his seatbelt before he starts his car.", "label": 2, "type": "hsynonym", "origin": "2-2"}
+{"premise": "A medium sized brown dog jumping", "hypothesis": "A 40 lb brown cat jumps excitedly for a treat.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a window in the picture.", "label": 0, "type":"h-antonym", "origin": "2-2"}
+{"premise": "One brown dog with green harnesses play tug-of-war.", "hypothesis": "some dogs are playing in a ground", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A man at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slip and slide", "label": 0, "type": "p-antonym", "origin": "2-2"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-specific", "origin": "2-2"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are not playing hopscotch.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "kids drawing something on paper", "hypothesis": "The kids are drawing ribbons.", "label": 1, "type":"h-antonym", "origin": "2-2"}
+{"premise": "kids drawing something on paper", "hypothesis": "The people are cutting ribbons.", "label": 2, "type":"h-general", "origin": "2-2"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The micorphone playing the trumpet.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "An older gentleman spelling at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A dog does not reach to catch a ball with its mouth.", "hypothesis": "The dog is playing with a rope.", "label": 2, "type":"p-negation", "origin": "2-2"}
+{"premise": "A dog sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his dog.", "label": 1, "type": "p-antonym", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their food.", "hypothesis": "People are waiting in line at a restaurant.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is analyzing a book.", "label": 1, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A baby at the end of a slip and slide at a party", "hypothesis": "The man is not at the end of the slip and slide", "label": 1, "type": "h-negation", "origin": "2-2"}
+{"premise": "A girl in red slides down an inflatable ride.", "hypothesis": "A boy pierces a knife through an inflatable ride.", "label": 2, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with hair is swimming underwater.", "label": 2, "type":"h-general", "origin": "2-2"}

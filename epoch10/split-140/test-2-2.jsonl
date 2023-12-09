@@ -1,0 +1,27 @@
+{"premise": "A medium sized brown dog jumping", "hypothesis": "A 40 lb brown cat jumps excitedly for a treat.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A blond woman shows her profile in front of a white luxury car.", "hypothesis": "A doctor shows her profile in front of a white luxury car.", "label": 1, "type":"h-specific", "origin": "2-2"}
+{"premise": "A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a shirt", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is analyzing a book.", "label": 1, "type":"h-synonym", "origin": "2-2"}
+{"premise": "kids drawing something on paper", "hypothesis": "The kids are drawing ribbons.", "label": 1, "type":"h-antonym", "origin": "2-2"}
+{"premise": "kids slicing paper", "hypothesis": "The kids are cutting ribbons.", "label": 1, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are playing army.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The woman not playing the trumpet.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "An person speaking at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 1, "type":"p-general", "origin": "2-2"}
+{"premise": "A blond woman shows her profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury vehicle.", "label": 0, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A blond doctor shows her profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury car.", "label": 0, "type":"p-specific", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "An older gentleman spelling at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a man in the picture.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A girl in red slides down an inflatable ride.", "hypothesis": "A boy pierces a knife through an inflatable ride.", "label": 2, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A man at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slip and slide", "label": 0, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A blond man shows his profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury car.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A man takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a black shirt", "label": 1, "type":"p-general", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is driving a bus.", "hypothesis": "A- guy fastens his seatbelt before he starts his car.", "label": 2, "type": "pspecific", "origin": "2-2"}
+{"premise": "A dog reaches to catch a ball with its mouth.", "hypothesis": "The dog is not playing with a rope.", "label": 0, "type":"h-negation", "origin": "2-2"}
+{"premise": "A boy in red slides down an inflatable ride.", "hypothesis": "A boy stabs a knife through an inflatable ride.", "label": 2, "type": "h-synonym", "origin": "2-2"}
+{"premise": "A boy in red slides down an inflatable ride.", "hypothesis": "A boy on an inflatable ride.", "label": 0, "type": "h-general", "origin": "2-2"}
+{"premise": "A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a white jacket", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is writing a book.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "Two friends talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the jockey team.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A medium sized gray dog jumping", "hypothesis": "A 40 lb brown dog jumps excitedly for a treat.", "label": 2, "type": "p-antonym", "origin": "2-2"}
+{"premise": "Two boys talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the ice hockey team.", "label": 1, "type": "p-antonym", "origin": "2-2"}

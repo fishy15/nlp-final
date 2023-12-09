@@ -1,0 +1,42 @@
+{"premise": "Women are standing outside", "hypothesis": "The women are not friends.", "label": 1, "type":"h-negation", "origin": "2-2"}
+{"premise": "A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.", "hypothesis": "A man is doing a cartwheel.", "label": 2, "type": "h-antonym", "origin": "0-0"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "Two women are at a pub.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boy off field", "label": 2, "type": "h-direction", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A woman selling donuts to a customer.", "label": 2, "type": "h-antonym", "origin": "0-0"}
+{"premise": "Two girls talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the skating team.", "label": 1, "type": "h-general", "origin": "2-2"}
+{"premise": "A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.", "hypothesis": "a guy laughs after doing laundry", "label": 1, "type": "h-time", "origin": "0-0"}
+{"premise": "A blond woman shows her profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury vehicle.", "label": 0, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boy not in field", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are not holding packages.", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "A dog reaches to catch a ball with its mouth.", "hypothesis": "The dog is not playing with a rope.", "label": 0, "type":"h-negation", "origin": "2-2"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a few packages.", "label": 1, "type": "h-general", "origin": "0-0"}
+{"premise": "A young girl performing the nutcracker.", "hypothesis": "watched by a nutcracker", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "people play football", "label": 2, "type": "h-synonym", "origin": "0-0"}
+{"premise": "Two brown dogs with green harnesses play tug-of-war.", "hypothesis": "some dogs are playing", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "An animal is moving to catch an object.", "label": 0, "type": "h-general", "origin": "0-0"}
+{"premise": "A boy in red slides down an inflatable ride.", "hypothesis": "A boy stabs a knife through an inflatable ride.", "label": 2, "type": "h-synonym", "origin": "2-2"}
+{"premise": "Balding man in gray sweater plays with his dog.", "hypothesis": "An older man is throwing a sweater for his dog.", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "A woman is at a bar.", "label": 0, "type": "h-number", "origin": "0-0"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding oranges.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to be served his drink.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The woman not playing the trumpet.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a package each.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "Two women are outside a bar.", "label": 2, "type": "h-direction", "origin": "0-0"}
+{"premise": "A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.", "hypothesis": "Two women are doing a cartwheel.", "label": 1, "type": "h-number", "origin": "0-0"}
+{"premise": "Two men on bicycles competing in a race.", "hypothesis": "Men are riding motorcycles.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior expects to be served his food.", "label": 0, "type": "h-different", "origin": "0-0"}
+{"premise": "A medium sized brown dog hopping", "hypothesis": "A 400 lb brown dog jumps excitedly for a treat.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A baby at the end of a slip and slide at a party", "hypothesis": "The man is at the end of the slide", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl painting a rock face outside.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is not wearing a blue shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A young girl performing the nutcracker.", "hypothesis": "seen by a group", "label": 1, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man not selling donuts to a customer.", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a shirt", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to serve his food.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "man in field", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Two older men standing in front of a store of sorts.", "hypothesis": "two younger men prepare to enter a store", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a red shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a window in the picture.", "label": 0, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A dog reaches to catch a ball with its mouth.", "hypothesis": "The dog is playing with a man.", "label": 1, "type":"h-antonym", "origin": "2-2"}
+{"premise": "Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "A woman in a suit", "label": 2, "type": "h-specific", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue jacket", "label": 1, "type": "h-different", "origin": "0-0"}

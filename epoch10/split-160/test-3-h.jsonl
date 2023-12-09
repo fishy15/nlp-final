@@ -1,0 +1,18 @@
+{"premise": "A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.", "hypothesis": "A man is wearing a shirt", "label": 0, "type":"h-general", "origin": "2-2"}
+{"premise": "A young girl performing the nutcracker.", "hypothesis": "watched by a nutcracker", "label": 2, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boy not in field", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "A woman is at a bar.", "label": 0, "type": "h-number", "origin": "0-0"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are playing army.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A man sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his man.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their food.", "hypothesis": "People are waiting in line at a restaurant.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boys in field", "label": 2, "type": "h-numbers", "origin": "0-0"}
+{"premise": "A person in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is analyzing a book.", "label": 1, "type":"h-synonym", "origin": "2-2"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy buckles his seatbelt before he starts his car.", "label": 2, "type": "hsynonym", "origin": "2-2"}
+{"premise": "Two men on bicycles competing in a race.", "hypothesis": "Men are riding motorcycles.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to serve his food.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys play foosball", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The micorphone playing the trumpet.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with hair is swimming underwater.", "label": 2, "type":"h-general", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with long hair is not swimming underwater.", "label": 0, "type":"h-negation", "origin": "2-2"}
+{"premise": "A girl climbing a outdoors rock face.", "hypothesis": "A girl climbing a rock face outside.", "label": 0, "type": "h-specific", "origin": "2-2"}

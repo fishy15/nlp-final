@@ -1,0 +1,20 @@
+{"premise": "A man selling donuts to a customer before a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0, "type": "p-time", "origin": "0-0"}
+{"premise": "A white dog with long hair jumps to catch the wind.", "hypothesis": "An animal is jumping to catch an object.", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "Two women aren't embracing while holding to go packages.", "hypothesis": "Two woman are holding packages.", "label": 2, "type": "p-negation", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to serve his food.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is stretching to grab the propeller of a plane.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling bagels to a customer.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.", "hypothesis": "Two women are doing a cartwheel.", "label": 1, "type": "h-number", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a cyan shirt", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A woman selling donuts to a customer.", "label": 2, "type": "h-antonym", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is not wearing a blue shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Man not in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "Person in a suit", "label": 1, "type": "p-negation", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boys in field", "label": 2, "type": "h-numbers", "origin": "0-0"}
+{"premise": "Two men on bicycles competing in a race.", "hypothesis": "Men are riding motorcycles.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches down to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a plane.", "label": 0, "type": "p-direction", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching down to grab the propeller of a plane.", "label": 2, "type": "h-direction", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a friend.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys compete in football", "label": 2, "type": "h-synonym", "origin": "0-0"}
+{"premise": "A woman is doing a cartwheel but not wearing a bikini in the sand next to the beach.", "hypothesis": "A woman is doing a cartwheel.", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue jacket", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Two grandfathers on bicycles competing in a race.", "hypothesis": "People are riding bikes.", "label": 0, "type": "p-specific", "origin": "0-0"}

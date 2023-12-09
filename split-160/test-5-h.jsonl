@@ -1,0 +1,17 @@
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a red shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Women are standing outside", "hypothesis": "The women are coworkers.", "label": 1, "type":"h-synonyms", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A long animal is jumping to catch an object.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a boat.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Two older men standing in front of a store of sorts.", "hypothesis": "two younger men prepare to enter a store", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys don't play football", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.", "hypothesis": "a person laughs while folding laundry", "label": 0, "type": "h-general", "origin": "0-0"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "An animal is leaping to catch an object.", "label": 0, "type": "h-synonym", "origin": "0-0"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "Two women are at a pub.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "Two women having drinks and smoking cigarettes at the bar.", "hypothesis": "A woman is at a bar.", "label": 0, "type": "h-number", "origin": "0-0"}
+{"premise": "A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.", "hypothesis": "a guy laughs after doing laundry", "label": 1, "type": "h-time", "origin": "0-0"}
+{"premise": "Four guys with guns and army gear.", "hypothesis": "The four guys are not playing hopscotch.", "label": 0, "type": "h-negation", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their food.", "hypothesis": "People are waiting in line at a restaurant.", "label": 1, "type": "h-antonym", "origin": "2-2"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a window in the picture.", "label": 0, "type":"h-antonym", "origin": "2-2"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a few packages.", "label": 1, "type": "h-general", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to serve his food.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to be served his drink.", "label": 1, "type": "h-different", "origin": "0-0"}

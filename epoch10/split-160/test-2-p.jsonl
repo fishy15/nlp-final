@@ -1,0 +1,19 @@
+{"premise": "Man in a black suit, white shirt and black bowtie playing an instrument without the rest of his symphony surrounding him.", "hypothesis": "Person in a suit", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "A man in a green shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "Woman in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "Person in a suit", "label": 0, "type": "p-antonym", "origin": "0-0"}
+{"premise": "A young boy is sitting in a green tunnel", "hypothesis": "A child is tunneling", "label": 2,"type":"p-antonym/pgeneral", "origin": "2-2"}
+{"premise": "Two women not having drinks but smoking cigarettes at the bar.", "hypothesis": "Two women are at a bar.", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "An person speaking at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 1, "type":"p-general", "origin": "2-2"}
+{"premise": "Two friends work construction on the inside of a house.", "hypothesis": "The men are all friends", "label": 0, "type": "p-specific", "origin": "2-2"}
+{"premise": "A senior is waiting at the door of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to be served his food.", "label": 0, "type": "p-different", "origin": "0-0"}
+{"premise": "A woman having drinks and smoking cigarettes at the bar.", "hypothesis": "Two women are at a bar.", "label": 1, "type": "p-number", "origin": "0-0"}
+{"premise": "A dog does not reach to catch a ball with its mouth.", "hypothesis": "The dog is playing with a rope.", "label": 2, "type":"p-negation", "origin": "2-2"}
+{"premise": "A reader in a blue plaid shirt is writing on a chalkboard.", "hypothesis": "The person is reading a book.", "label": 2, "type":"p-specific", "origin": "2-2"}
+{"premise": "A man not selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 2, "type": "p-negation", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers not carrying a ball", "hypothesis": "boy in field", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "A old boy in a field of flowers carrying a ball", "hypothesis": "boy in field", "label": 0, "type": "p-antonym", "origin": "0-0"}
+{"premise": "Friends are standing outside", "hypothesis": "The women are friends.", "label": 0, "type":"p-specific", "origin": "2-2"}
+{"premise": "Women are hugging outside", "hypothesis": "The women are friends.", "label": 0, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A man selling donuts to a customer before a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0, "type": "p-time", "origin": "0-0"}
+{"premise": "An older gentleman spelling at a podium.", "hypothesis": "A little girl in a spelling bee", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A woman is doing a cartwheel but not wearing a bikini in the sand next to the beach.", "hypothesis": "A woman is doing a cartwheel.", "label": 0, "type": "p-negation", "origin": "0-0"}
