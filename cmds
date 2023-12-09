@@ -4,3 +4,97 @@ alias b="cat custom/eval_predictions.jsonl | tail -n 1"
 alias c="a&&b"
 alias cnt="grep -c '^[^#]'"
 alias d="a && cat custom/eval_predictions.jsonl | tail -n 4"
+
+# $1 split size
+# $2 iteration number
+function gen_split() {
+    mkdir -p "split-$1"
+    shuf dataset.jsonl -o tmprand.jsonl
+    if [[ ! -f "split-$1/train-$2.jsonl" ]];
+    then
+        head -n $1 tmprand.jsonl > "split-$1/train-$2.jsonl"
+        tail -n $((200 - $1)) tmprand.jsonl > "split-$1/test-$2.jsonl"
+    fi
+    rm tmprand.jsonl
+}
+
+# $1 split size
+function gen_split5() {
+    gen_split $1 1
+    gen_split $1 2
+    gen_split $1 3
+    gen_split $1 4
+    gen_split $1 5
+}
+
+# $1 split size
+# $2 iteration number
+function train_model() {
+    if [[ ! -d "/tmp/aprakash/trained_model/fixed/split-$1/$2/" ]];
+    then
+        python run.py --do_train --task nli --dataset "split-$1/train-$2.jsonl" --model /tmp/aprakash/trained_model/base_model --output_dir "/tmp/aprakash/trained_model/fixed/split-$1/$2/"
+    fi
+}
+
+# $1 split size
+function train_model5() {
+    train_model $1 1
+    train_model $1 2
+    train_model $1 3
+    train_model $1 4
+    train_model $1 5
+}
+
+# $1 split size
+# $2 iteration number
+function eval_model() {
+    if [[ ! -d "split-$1/results-$2-big" ]];
+    then
+        python run.py --do_eval --task nli --dataset snli --model "/tmp/aprakash/trained_model/fixed/split-$1/$2/" --output_dir "split-$1/results-$2-big"
+    fi
+
+    if [[ ! -d "split-$1/results-$2" ]];
+    then
+        python run.py --do_eval --task nli --dataset "split-$1/test-$2.jsonl" --model "/tmp/aprakash/trained_model/fixed/split-$1/$2/" --output_dir "split-$1/results-$2"
+    fi
+}
+
+# $1 split size
+function eval_model5() {
+    eval_model $1 1
+    eval_model $1 2
+    eval_model $1 3
+    eval_model $1 4
+    eval_model $1 5
+}
+
+# $1 split size
+# $2 iteration number
+function eval_base() {
+    if [[ ! -d "split-$1/results-base-$2" ]];
+    then
+        python run.py --do_eval --task nli --dataset "split-$1/test-$2.jsonl" --model "/tmp/aprakash/trained_model/base_model/" --output_dir "split-$1/results-base-$2"
+    fi
+}
+
+# $1 split size
+function eval_base5() {
+    eval_base $1 1
+    eval_base $1 2
+    eval_base $1 3
+    eval_base $1 4
+    eval_base $1 5
+}
+
+# do everything
+function run_all() {
+    for sz in {20..160..20};
+    do
+        echo "sz: $sz"
+# gen_split5 $sz
+# train_model5 $sz
+# eval_model5 $sz
+        eval_base5 $sz
+    done
+}
+

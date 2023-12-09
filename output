@@ -1,0 +1,328 @@
+sz: 20
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.0665, 'train_samples_per_second': 56.261, 'train_steps_per_second': 8.439, 'train_loss': 1.3097043567233615, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.0348, 'train_samples_per_second': 57.981, 'train_steps_per_second': 8.697, 'train_loss': 1.2023533715142145, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.0372, 'train_samples_per_second': 57.85, 'train_steps_per_second': 8.678, 'train_loss': 0.6070922215779623, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.0381, 'train_samples_per_second': 57.798, 'train_steps_per_second': 8.67, 'train_loss': 1.0161415735880535, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.036, 'train_samples_per_second': 57.917, 'train_steps_per_second': 8.687, 'train_loss': 0.9595438639322916, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.39093056321144104, 'eval_accuracy': 0.8798008561134338, 'eval_runtime': 35.1639, 'eval_samples_per_second': 279.89, 'eval_steps_per_second': 35.008}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2736696004867554, 'eval_accuracy': 0.6944444179534912, 'eval_runtime': 0.9053, 'eval_samples_per_second': 198.826, 'eval_steps_per_second': 25.406}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.40338271856307983, 'eval_accuracy': 0.8800040483474731, 'eval_runtime': 35.1546, 'eval_samples_per_second': 279.963, 'eval_steps_per_second': 35.017}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.3403873443603516, 'eval_accuracy': 0.6666666865348816, 'eval_runtime': 0.9111, 'eval_samples_per_second': 197.572, 'eval_steps_per_second': 25.245}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.4043498933315277, 'eval_accuracy': 0.8786832094192505, 'eval_runtime': 35.1588, 'eval_samples_per_second': 279.93, 'eval_steps_per_second': 35.013}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.3248225450515747, 'eval_accuracy': 0.6611111164093018, 'eval_runtime': 0.9049, 'eval_samples_per_second': 198.928, 'eval_steps_per_second': 25.419}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.4204117953777313, 'eval_accuracy': 0.8744157552719116, 'eval_runtime': 35.189, 'eval_samples_per_second': 279.69, 'eval_steps_per_second': 34.983}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2986253499984741, 'eval_accuracy': 0.6888889074325562, 'eval_runtime': 0.9165, 'eval_samples_per_second': 196.393, 'eval_steps_per_second': 25.095}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.4054173231124878, 'eval_accuracy': 0.8767526745796204, 'eval_runtime': 35.1594, 'eval_samples_per_second': 279.925, 'eval_steps_per_second': 35.012}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.3256347179412842, 'eval_accuracy': 0.6611111164093018, 'eval_runtime': 0.9088, 'eval_samples_per_second': 198.054, 'eval_steps_per_second': 25.307}
+sz: 40
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.7456, 'train_samples_per_second': 68.744, 'train_steps_per_second': 8.593, 'train_loss': 0.7213282267252604, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.7629, 'train_samples_per_second': 68.069, 'train_steps_per_second': 8.509, 'train_loss': 1.1224941253662108, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.744, 'train_samples_per_second': 68.808, 'train_steps_per_second': 8.601, 'train_loss': 0.70950927734375, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.7449, 'train_samples_per_second': 68.772, 'train_steps_per_second': 8.597, 'train_loss': 1.0125402450561523, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 1.7469, 'train_samples_per_second': 68.694, 'train_steps_per_second': 8.587, 'train_loss': 0.6792298634847005, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.40176981687545776, 'eval_accuracy': 0.8772607445716858, 'eval_runtime': 35.2751, 'eval_samples_per_second': 279.007, 'eval_steps_per_second': 34.897}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.276261329650879, 'eval_accuracy': 0.6625000238418579, 'eval_runtime': 0.8518, 'eval_samples_per_second': 187.839, 'eval_steps_per_second': 23.48}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.39459604024887085, 'eval_accuracy': 0.8743141889572144, 'eval_runtime': 35.2039, 'eval_samples_per_second': 279.572, 'eval_steps_per_second': 34.968}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.202867865562439, 'eval_accuracy': 0.668749988079071, 'eval_runtime': 0.8378, 'eval_samples_per_second': 190.984, 'eval_steps_per_second': 23.873}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3815215826034546, 'eval_accuracy': 0.8824425935745239, 'eval_runtime': 35.1956, 'eval_samples_per_second': 279.638, 'eval_steps_per_second': 34.976}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2646100521087646, 'eval_accuracy': 0.668749988079071, 'eval_runtime': 0.8404, 'eval_samples_per_second': 190.394, 'eval_steps_per_second': 23.799}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.363448828458786, 'eval_accuracy': 0.8823409676551819, 'eval_runtime': 35.2338, 'eval_samples_per_second': 279.334, 'eval_steps_per_second': 34.938}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2528265714645386, 'eval_accuracy': 0.668749988079071, 'eval_runtime': 0.833, 'eval_samples_per_second': 192.08, 'eval_steps_per_second': 24.01}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.37142717838287354, 'eval_accuracy': 0.8813249468803406, 'eval_runtime': 35.2259, 'eval_samples_per_second': 279.397, 'eval_steps_per_second': 34.946}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.3433444499969482, 'eval_accuracy': 0.65625, 'eval_runtime': 0.845, 'eval_samples_per_second': 189.359, 'eval_steps_per_second': 23.67}
+sz: 60
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 2.546, 'train_samples_per_second': 70.699, 'train_steps_per_second': 9.426, 'train_loss': 0.7145479520161947, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 2.5486, 'train_samples_per_second': 70.626, 'train_steps_per_second': 9.417, 'train_loss': 1.1265816688537598, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 2.5404, 'train_samples_per_second': 70.856, 'train_steps_per_second': 9.447, 'train_loss': 0.9734708468119303, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 2.5392, 'train_samples_per_second': 70.889, 'train_steps_per_second': 9.452, 'train_loss': 0.8312621116638184, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 2.539, 'train_samples_per_second': 70.895, 'train_steps_per_second': 9.453, 'train_loss': 0.9484428564707438, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.37536168098449707, 'eval_accuracy': 0.8817313313484192, 'eval_runtime': 35.2087, 'eval_samples_per_second': 279.533, 'eval_steps_per_second': 34.963}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.3059797286987305, 'eval_accuracy': 0.6571428775787354, 'eval_runtime': 0.7728, 'eval_samples_per_second': 181.166, 'eval_steps_per_second': 23.293}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3589536249637604, 'eval_accuracy': 0.8811216950416565, 'eval_runtime': 35.3293, 'eval_samples_per_second': 278.579, 'eval_steps_per_second': 34.844}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.9682853817939758, 'eval_accuracy': 0.7142857313156128, 'eval_runtime': 0.7727, 'eval_samples_per_second': 181.184, 'eval_steps_per_second': 23.295}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.36063629388809204, 'eval_accuracy': 0.8806136846542358, 'eval_runtime': 35.3703, 'eval_samples_per_second': 278.256, 'eval_steps_per_second': 34.803}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0248736143112183, 'eval_accuracy': 0.7142857313156128, 'eval_runtime': 0.7681, 'eval_samples_per_second': 182.256, 'eval_steps_per_second': 23.433}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3720501959323883, 'eval_accuracy': 0.8811216950416565, 'eval_runtime': 35.2878, 'eval_samples_per_second': 278.907, 'eval_steps_per_second': 34.885}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.1404463052749634, 'eval_accuracy': 0.6642857193946838, 'eval_runtime': 0.7771, 'eval_samples_per_second': 180.16, 'eval_steps_per_second': 23.163}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3696094751358032, 'eval_accuracy': 0.8789880275726318, 'eval_runtime': 35.2934, 'eval_samples_per_second': 278.862, 'eval_steps_per_second': 34.879}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.139159083366394, 'eval_accuracy': 0.6571428775787354, 'eval_runtime': 0.7577, 'eval_samples_per_second': 184.778, 'eval_steps_per_second': 23.757}
+sz: 80
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 3.2479, 'train_samples_per_second': 73.894, 'train_steps_per_second': 9.237, 'train_loss': 0.8444878896077473, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 3.2521, 'train_samples_per_second': 73.799, 'train_steps_per_second': 9.225, 'train_loss': 0.8690813064575196, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 3.2488, 'train_samples_per_second': 73.874, 'train_steps_per_second': 9.234, 'train_loss': 0.9172408421834309, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 3.2513, 'train_samples_per_second': 73.817, 'train_steps_per_second': 9.227, 'train_loss': 0.7754628499348958, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 3.248, 'train_samples_per_second': 73.891, 'train_steps_per_second': 9.236, 'train_loss': 0.941408920288086, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3656654953956604, 'eval_accuracy': 0.8790895938873291, 'eval_runtime': 35.2182, 'eval_samples_per_second': 279.457, 'eval_steps_per_second': 34.953}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2148610353469849, 'eval_accuracy': 0.6833333373069763, 'eval_runtime': 0.7014, 'eval_samples_per_second': 171.088, 'eval_steps_per_second': 21.386}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3740741014480591, 'eval_accuracy': 0.8790895938873291, 'eval_runtime': 35.3243, 'eval_samples_per_second': 278.618, 'eval_steps_per_second': 34.849}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0199617147445679, 'eval_accuracy': 0.7250000238418579, 'eval_runtime': 0.6933, 'eval_samples_per_second': 173.076, 'eval_steps_per_second': 21.634}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3970145881175995, 'eval_accuracy': 0.873094916343689, 'eval_runtime': 35.2842, 'eval_samples_per_second': 278.935, 'eval_steps_per_second': 34.888}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0173423290252686, 'eval_accuracy': 0.7166666388511658, 'eval_runtime': 0.695, 'eval_samples_per_second': 172.672, 'eval_steps_per_second': 21.584}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.40428441762924194, 'eval_accuracy': 0.8728916645050049, 'eval_runtime': 35.357, 'eval_samples_per_second': 278.361, 'eval_steps_per_second': 34.816}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.1944454908370972, 'eval_accuracy': 0.6333333253860474, 'eval_runtime': 0.6996, 'eval_samples_per_second': 171.533, 'eval_steps_per_second': 21.442}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.37276121973991394, 'eval_accuracy': 0.8774639368057251, 'eval_runtime': 35.3779, 'eval_samples_per_second': 278.196, 'eval_steps_per_second': 34.796}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.9366032481193542, 'eval_accuracy': 0.75, 'eval_runtime': 0.7033, 'eval_samples_per_second': 170.614, 'eval_steps_per_second': 21.327}
+sz: 100
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.0491, 'train_samples_per_second': 74.091, 'train_steps_per_second': 9.632, 'train_loss': 0.6680168738731971, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.0451, 'train_samples_per_second': 74.165, 'train_steps_per_second': 9.641, 'train_loss': 0.7508683326916817, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.0451, 'train_samples_per_second': 74.165, 'train_steps_per_second': 9.641, 'train_loss': 0.778409175383739, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.0373, 'train_samples_per_second': 74.307, 'train_steps_per_second': 9.66, 'train_loss': 0.8729289128230169, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.0477, 'train_samples_per_second': 74.116, 'train_steps_per_second': 9.635, 'train_loss': 0.7808162982647235, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.4017208218574524, 'eval_accuracy': 0.8742125630378723, 'eval_runtime': 35.2381, 'eval_samples_per_second': 279.3, 'eval_steps_per_second': 34.934}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.1226584911346436, 'eval_accuracy': 0.6700000166893005, 'eval_runtime': 0.6057, 'eval_samples_per_second': 165.096, 'eval_steps_per_second': 21.462}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3787368834018707, 'eval_accuracy': 0.8795976638793945, 'eval_runtime': 35.2748, 'eval_samples_per_second': 279.009, 'eval_steps_per_second': 34.897}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2324435710906982, 'eval_accuracy': 0.6499999761581421, 'eval_runtime': 0.6, 'eval_samples_per_second': 166.66, 'eval_steps_per_second': 21.666}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.38378211855888367, 'eval_accuracy': 0.8774639368057251, 'eval_runtime': 35.3976, 'eval_samples_per_second': 278.042, 'eval_steps_per_second': 34.776}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0514917373657227, 'eval_accuracy': 0.6700000166893005, 'eval_runtime': 0.6228, 'eval_samples_per_second': 160.556, 'eval_steps_per_second': 20.872}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.37582841515541077, 'eval_accuracy': 0.8751270174980164, 'eval_runtime': 35.3801, 'eval_samples_per_second': 278.179, 'eval_steps_per_second': 34.794}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0023449659347534, 'eval_accuracy': 0.6800000071525574, 'eval_runtime': 0.6068, 'eval_samples_per_second': 164.788, 'eval_steps_per_second': 21.422}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.4294144809246063, 'eval_accuracy': 0.8690307140350342, 'eval_runtime': 35.4871, 'eval_samples_per_second': 277.34, 'eval_steps_per_second': 34.689}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2726616859436035, 'eval_accuracy': 0.6600000262260437, 'eval_runtime': 0.6019, 'eval_samples_per_second': 166.135, 'eval_steps_per_second': 21.598}
+sz: 120
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.7675, 'train_samples_per_second': 75.511, 'train_steps_per_second': 9.439, 'train_loss': 0.7220819261338975, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.7608, 'train_samples_per_second': 75.618, 'train_steps_per_second': 9.452, 'train_loss': 0.874033949110243, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.7691, 'train_samples_per_second': 75.485, 'train_steps_per_second': 9.436, 'train_loss': 0.7507349650065104, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.7519, 'train_samples_per_second': 75.759, 'train_steps_per_second': 9.47, 'train_loss': 0.7313913133409288, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 4.7681, 'train_samples_per_second': 75.502, 'train_steps_per_second': 9.438, 'train_loss': 0.8140567355685764, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.39303717017173767, 'eval_accuracy': 0.8753302097320557, 'eval_runtime': 35.3244, 'eval_samples_per_second': 278.618, 'eval_steps_per_second': 34.848}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.1834676265716553, 'eval_accuracy': 0.6499999761581421, 'eval_runtime': 0.5276, 'eval_samples_per_second': 151.639, 'eval_steps_per_second': 18.955}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3510470390319824, 'eval_accuracy': 0.8801056742668152, 'eval_runtime': 35.5157, 'eval_samples_per_second': 277.117, 'eval_steps_per_second': 34.661}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.7970079183578491, 'eval_accuracy': 0.7124999761581421, 'eval_runtime': 0.53, 'eval_samples_per_second': 150.947, 'eval_steps_per_second': 18.868}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3768416941165924, 'eval_accuracy': 0.8737045526504517, 'eval_runtime': 35.3647, 'eval_samples_per_second': 278.3, 'eval_steps_per_second': 34.809}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.0588606595993042, 'eval_accuracy': 0.625, 'eval_runtime': 0.5266, 'eval_samples_per_second': 151.931, 'eval_steps_per_second': 18.991}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.37749549746513367, 'eval_accuracy': 0.8727900981903076, 'eval_runtime': 35.5667, 'eval_samples_per_second': 276.72, 'eval_steps_per_second': 34.611}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.9681134223937988, 'eval_accuracy': 0.7124999761581421, 'eval_runtime': 0.5321, 'eval_samples_per_second': 150.356, 'eval_steps_per_second': 18.794}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.40642720460891724, 'eval_accuracy': 0.8681162595748901, 'eval_runtime': 35.3341, 'eval_samples_per_second': 278.541, 'eval_steps_per_second': 34.839}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.2658013105392456, 'eval_accuracy': 0.6499999761581421, 'eval_runtime': 0.5326, 'eval_samples_per_second': 150.209, 'eval_steps_per_second': 18.776}
+sz: 140
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 5.5859, 'train_samples_per_second': 75.189, 'train_steps_per_second': 9.667, 'train_loss': 0.7708591178611472, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 5.5568, 'train_samples_per_second': 75.583, 'train_steps_per_second': 9.718, 'train_loss': 0.8306221432156033, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 5.5507, 'train_samples_per_second': 75.666, 'train_steps_per_second': 9.728, 'train_loss': 0.8402791906286169, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 5.5526, 'train_samples_per_second': 75.64, 'train_steps_per_second': 9.725, 'train_loss': 0.822410230283384, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 5.5532, 'train_samples_per_second': 75.633, 'train_steps_per_second': 9.724, 'train_loss': 0.8683950636121962, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3954349756240845, 'eval_accuracy': 0.8725868463516235, 'eval_runtime': 35.2812, 'eval_samples_per_second': 278.959, 'eval_steps_per_second': 34.891}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.300896406173706, 'eval_accuracy': 0.5833333134651184, 'eval_runtime': 0.4568, 'eval_samples_per_second': 131.361, 'eval_steps_per_second': 17.515}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.36067137122154236, 'eval_accuracy': 0.8761430382728577, 'eval_runtime': 35.3545, 'eval_samples_per_second': 278.381, 'eval_steps_per_second': 34.819}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.8610321283340454, 'eval_accuracy': 0.699999988079071, 'eval_runtime': 0.4709, 'eval_samples_per_second': 127.412, 'eval_steps_per_second': 16.988}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3632333278656006, 'eval_accuracy': 0.8744157552719116, 'eval_runtime': 35.2969, 'eval_samples_per_second': 278.835, 'eval_steps_per_second': 34.876}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.819787859916687, 'eval_accuracy': 0.7666666507720947, 'eval_runtime': 0.4653, 'eval_samples_per_second': 128.962, 'eval_steps_per_second': 17.195}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3659142851829529, 'eval_accuracy': 0.8762446641921997, 'eval_runtime': 35.2938, 'eval_samples_per_second': 278.859, 'eval_steps_per_second': 34.879}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.7293907999992371, 'eval_accuracy': 0.7666666507720947, 'eval_runtime': 0.4625, 'eval_samples_per_second': 129.739, 'eval_steps_per_second': 17.299}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.35777705907821655, 'eval_accuracy': 0.8774639368057251, 'eval_runtime': 35.3743, 'eval_samples_per_second': 278.225, 'eval_steps_per_second': 34.799}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.7147811651229858, 'eval_accuracy': 0.7833333611488342, 'eval_runtime': 0.4729, 'eval_samples_per_second': 126.867, 'eval_steps_per_second': 16.916}
+sz: 160
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 6.2875, 'train_samples_per_second': 76.341, 'train_steps_per_second': 9.543, 'train_loss': 0.8333471298217774, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 6.2564, 'train_samples_per_second': 76.722, 'train_steps_per_second': 9.59, 'train_loss': 0.7948176701863606, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 6.2576, 'train_samples_per_second': 76.706, 'train_steps_per_second': 9.588, 'train_loss': 0.7583448410034179, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 6.2577, 'train_samples_per_second': 76.706, 'train_steps_per_second': 9.588, 'train_loss': 0.8071025212605795, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+{'train_runtime': 6.2628, 'train_samples_per_second': 76.643, 'train_steps_per_second': 9.58, 'train_loss': 0.8545935948689779, 'epoch': 3.0}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3524724245071411, 'eval_accuracy': 0.8791912198066711, 'eval_runtime': 35.2087, 'eval_samples_per_second': 279.533, 'eval_steps_per_second': 34.963}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.6405624747276306, 'eval_accuracy': 0.7749999761581421, 'eval_runtime': 0.3958, 'eval_samples_per_second': 101.056, 'eval_steps_per_second': 12.632}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3647630214691162, 'eval_accuracy': 0.8782767653465271, 'eval_runtime': 35.4788, 'eval_samples_per_second': 277.405, 'eval_steps_per_second': 34.697}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 1.207643747329712, 'eval_accuracy': 0.625, 'eval_runtime': 0.3839, 'eval_samples_per_second': 104.198, 'eval_steps_per_second': 13.025}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.352084219455719, 'eval_accuracy': 0.8800040483474731, 'eval_runtime': 35.3762, 'eval_samples_per_second': 278.21, 'eval_steps_per_second': 34.797}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.9354408383369446, 'eval_accuracy': 0.625, 'eval_runtime': 0.387, 'eval_samples_per_second': 103.353, 'eval_steps_per_second': 12.919}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.36920997500419617, 'eval_accuracy': 0.8720788359642029, 'eval_runtime': 35.3661, 'eval_samples_per_second': 278.289, 'eval_steps_per_second': 34.807}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.8841229677200317, 'eval_accuracy': 0.7250000238418579, 'eval_runtime': 0.3953, 'eval_samples_per_second': 101.177, 'eval_steps_per_second': 12.647}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.3884415626525879, 'eval_accuracy': 0.8702499270439148, 'eval_runtime': 35.3849, 'eval_samples_per_second': 278.141, 'eval_steps_per_second': 34.789}
+Preprocessing data... (this takes a little bit, should only happen once per dataset)
+Evaluation results:
+{'eval_loss': 0.9075736999511719, 'eval_accuracy': 0.675000011920929, 'eval_runtime': 0.3913, 'eval_samples_per_second': 102.222, 'eval_steps_per_second': 12.778}

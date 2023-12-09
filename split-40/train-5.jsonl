@@ -1,0 +1,40 @@
+{"premise": "A man in a colorful shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 1, "type": "p-general", "origin": "0-0"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding oranges.", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A young woman is singing into a microphone.", "hypothesis": "The micorphone playing the trumpet.", "label": 2, "type": "h-antonym", "origin": "2-2"}
+{"premise": "Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "A woman in a suit", "label": 2, "type": "h-specific", "origin": "0-0"}
+{"premise": "A man in a green shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "A white cat with long hair jumps to catch a red and green toy.", "hypothesis": "A white dog with long hair is swimming underwater.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Two friends work construction on the inside of a house.", "hypothesis": "The men are all friends", "label": 0, "type": "p-specific", "origin": "2-2"}
+{"premise": "Young man in gray sweater plays with his dog.", "hypothesis": "An older man is throwing a stick for his dog.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A dog sleeping on the ground in a subway.", "hypothesis": "The man is sleeping next to his dog.", "label": 1, "type": "p-antonym", "origin": "2-2"}
+{"premise": "A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.", "hypothesis": "a person laughs while folding laundry", "label": 0, "type": "h-general", "origin": "0-0"}
+{"premise": "A blond man shows his profile in front of a white luxury car.", "hypothesis": "A woman shows her profile in front of a white luxury car.", "label": 2, "type":"p-antonym", "origin": "2-2"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is stretching to grab the propeller of a plane.", "label": 1, "type": "h-different", "origin": "0-0"}
+{"premise": "Two girls talk at an ice skating rink.", "hypothesis": "Two friends are trying out for the skating team.", "label": 1, "type": "h-general", "origin": "2-2"}
+{"premise": "A white canine with long hair jumps to catch a red and green toy.", "hypothesis": "An animal is jumping to catch an object.", "label": 0, "type": "p-different", "origin": "0-0"}
+{"premise": "A white dog with long hair dives to catch a red and green toy.", "hypothesis": "A white dog with long hair is swimming underwater.", "label": 0, "type":"p-antonym", "origin": "2-2"}
+{"premise": "A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.", "hypothesis": "a guy laughs while folding laundry", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "A black man, wearing a cap, is driving a bus.", "hypothesis": "A- guy fastens his seatbelt before he starts his car.", "label": 2, "type": "pspecific", "origin": "2-2"}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two woman are holding a package each.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "A black man, wearing a cap, is sitting in a bus.", "hypothesis": "A- guy does not fastens his seatbelt before he starts his car.", "label": 1, "type": "hnegation", "origin": "2-2"}
+{"premise": "Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.", "hypothesis": "Person in a colorful suit", "label": 2, "type": "h-specific", "origin": "0-0"}
+{"premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to the propeller of a plane.", "label": 0, "type": "h-synonym", "origin": "0-0"}
+{"premise": "A woman is holding a baby by a window.", "hypothesis": "There is a window in the picture.", "label": 0, "type":"h-antonym", "origin": "2-2"}
+{"premise": "A young woman is not singing into a microphone.", "hypothesis": "The woman playing the trumpet.", "label": 2, "type": "p-negation", "origin": "2-2"}
+{"premise": "Under a blue sky with black clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.", "hypothesis": "A child is reaching to touch the propeller of a plane.", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a red shirt", "label": 2, "type": "h-different", "origin": "0-0"}
+{"premise": "A young person is sitting in a green tunnel", "hypothesis": "A girl is sitting", "label": 1,"type":"p-general", "origin": "2-2"}
+{"premise": "A young woman is performing into a microphone.", "hypothesis": "The woman playing the trumpet.", "label": 2, "type": "p-synonym", "origin": "2-2"}
+{"premise": "Families waiting in line at an amusement park for their turn to ride.", "hypothesis": "People are not waiting in line at a restaurant.", "label": 2, "type": "p-negation", "origin": "2-2"}
+{"premise": "Two young boys of different teams play foosball, while wearing full protection uniforms and helmets.", "hypothesis": "boys play football", "label": 2, "type": "p-different", "origin": "0-0"}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "boys don't play football", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "Two grandfathers on bicycles competing in a race.", "hypothesis": "People are riding bikes.", "label": 0, "type": "p-specific", "origin": "0-0"}
+{"premise": "A person is waiting at the window of a restaurant that serves sandwiches.", "hypothesis": "A senior waits to be served his food.", "label": 1, "type": "p-general", "origin": "0-0"}
+{"premise": "A man selling donuts to a customer before a world exhibition event held in the city of Angeles", "hypothesis": "A man selling donuts to a customer.", "label": 0, "type": "p-time", "origin": "0-0"}
+{"premise": "A senior is waiting at the window of a restuarant that does not serve sandwiches.", "hypothesis": "A senior waits to be served his food.", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "Two brown dogs with green harnesses don't play tug-of-war.", "hypothesis": "some dogs are playing in a ground", "label": 2, "type":"p-negation", "origin": "2-2"}
+{"premise": "Two people work construction on the inside of a house.", "hypothesis": "The men are all coworkers", "label": 0, "type": "h-general", "origin": "2-2"}
+{"premise": "A white dog with long hair jumps to catch a red and green toy.", "hypothesis": "A long animal is jumping to catch an object.", "label": 1, "type": "h-specific", "origin": "0-0"}
+{"premise": "A man in a blue shirt not standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man is wearing a blue shirt", "label": 0, "type": "p-negation", "origin": "0-0"}
+{"premise": "A young boy in a field of flowers carrying a ball", "hypothesis": "boy not in field", "label": 2, "type": "h-negation", "origin": "0-0"}
+{"premise": "Families waiting in line at an restaurant for their turn to ride.", "hypothesis": "People are waiting in line at a restaurant.", "label": 0, "type": "h-antonym", "origin": "2-2"}
